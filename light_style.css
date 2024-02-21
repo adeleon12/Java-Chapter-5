@@ -87,3 +87,8 @@ html, body {
   }
   	
 }
+
+#blink{
+	color: red;
+	transition: 1s;
+}
