@@ -81,10 +81,6 @@ html, body {
    0% {
    background: red;
   }
-
-/*	50% {  add back in to slow the transition from red to white
-   background: red;
-  } */
  
   100% {
     background: white;
